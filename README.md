@@ -5,6 +5,7 @@
 
 <h1 align="center">Creating And Manipulating a Database</h1>
 
+<h2>Assignment:</h2>
 
 A. Write the SQL statements in order to create the tables for the database. Use the Entity Relationship Diagram (ERD) of the database shown in Figure 1. For simplicity, we are assuming in this project that a book cannot be written by more than one author. You need to create the tables as well as the required constraints, including the keys (primary and foreign), and the relationships between tables.
 
